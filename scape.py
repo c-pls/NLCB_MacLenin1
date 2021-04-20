@@ -8,9 +8,12 @@ from bs4 import BeautifulSoup
 import requests
 import pprint
 import json
+"""
+Simplt using Selenium to login into google account and get the data in the Google Form
+"""
 driver = webdriver.Chrome('./chromedriver')
 
-url_link = 'https://docs.google.com/forms/d/e/1FAIpQLSc5xLyelBK91jXFy_I-YJI7pDOyFmxwdg4lGykwELSQLw6Blw/viewscore?viewscore=AE0zAgAQY_dYftI-pT11gv2YriRmONNDZ5EKsQ8U77HIc8klc7hGgiag67WPsTdXDA&pli=1' 
+url_link = 'YourURL'
 
 
 def login(driver):
@@ -20,14 +23,14 @@ def login(driver):
     driver.implicitly_wait(15)
 
     loginBox = driver.find_element_by_xpath('//*[@id ="identifierId"]')
-    loginBox.send_keys("1901040038@s.hanu.edu.vn")
+    loginBox.send_keys("*******************")
 
     nextButton = driver.find_elements_by_xpath('//*[@id ="identifierNext"]')
     nextButton[0].click()
 
     passWordBox = driver.find_element_by_xpath(
         '//*[@id ="password"]/div[1]/div / div[1]/input')
-    passWordBox.send_keys("iamdchinh1")
+    passWordBox.send_keys("******************************")
 
     nextButton = driver.find_elements_by_xpath('//*[@id ="passwordNext"]')
     nextButton[0].click()
@@ -62,8 +65,7 @@ def scrape(driver):
 
 
 if __name__ == '__main__':
-    print("Heloo")
     form = scrape(driver)
-   # with open(r'/home/cp/Downloads/maclenin/data.json', 'w') as file:
-    #    json.dump(form, file)
+    with open(r'/home/cp/Downloads/maclenin/data.json', 'w') as file:
+        json.dump(form, file)
     pprint.pprint(form)
