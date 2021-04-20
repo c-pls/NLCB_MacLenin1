@@ -1,0 +1,162 @@
+[
+  {
+    "question": "  1: Nếu sắp xếp các hình thức vận động của vật chất từ thấp đến cao, thì sắp xếp nào dưới đây là sai? ",
+    "answer1": "1 Sinh học- 2 xã hội",
+    "answer2": "1 Vật lý - 2 Hóa học",
+    "answer3": "1 Sinh học- 2 Hóa học",
+    "answer4": "1 Cơ học - 2 Vật lý",
+    "correct": "1 Sinh học- 2 Hóa học"
+  },
+  {
+    "question": " 2: Trong số các tính chất sau, tính chất nào không thuộc về thời gian? ",
+    "answer1": "vĩnh cửu",
+    "answer2": "Một chiều",
+    "answer3": "Ba chiều",
+    "answer4": "Khách quan",
+    "correct": "Ba chiều"
+  },
+  {
+    "question": " 3: Mệnh đề nào là sai trong số các mệnh đề dưới đây? ",
+    "answer1": "Các hình thức vận động khác nhau về chất",
+    "answer2": "Mỗi sự vật chỉ có một hình thức vận động",
+    "answer3": "Mỗi sự vật thường đặc trưng bởi hình thức vận động cao nhất",
+    "answer4": "Mỗi sự vật tồn tại nhiều hình thức vận động",
+    "correct": "Mỗi sự vật chỉ có một hình thức vận động"
+  },
+  {
+    "question": " 4: Theo quan điểm của chủ nghĩa duy vật biện chứng, thuộc tính phản ánh là thuộc tính: ",
+    "answer1": "Chỉ xuất hiện ở con người",
+    "answer2": "Phổ biến ở mọi dạng vật chất",
+    "answer3": "Chỉ xuất hiện trong thế giới hữu cơ",
+    "answer4": "Chỉ xuất hiện ở vật chất vô cơ",
+    "correct": "Phổ biến ở mọi dạng vật chất"
+  },
+  {
+    "question": " 5: Nhân tố cơ bản, trực tiếp hình thành nguồn gốc xã hội của ý thức? ",
+    "answer1": "Lao động trí óc và lao động chân tay",
+    "answer2": "Lao động và nghiên cứu khoa học",
+    "answer3": "Hoạt động nhận thức và hoạt động thực tiễn",
+    "answer4": "Lao động và ngôn ngữ",
+    "correct": "Lao động và ngôn ngữ"
+  },
+  {
+    "question": " 6: Theo quan điểm của chủ nghĩa duy vật biện chứng, ý thức là: ",
+    "answer1": "Một dạng tồn tại đặc biệt của vật chất",
+    "answer2": "Một thực thể độc lập với vật chất",
+    "answer3": "Thuộc tính của sinh vật nói chung",
+    "answer4": "Hình ảnh tinh thần của con người về thế giới",
+    "correct": "Hình ảnh tinh thần của con người về thế giới"
+  },
+  {
+    "question": " 7: Lựa chọn từ điền vào câu để hoàn thành nhận định của Mác \" Ý thức chẳng qua chỉ là........được di chuyển vào bộ óc con người và được cải biên đi ở trong đó\" ",
+    "answer1": "Cái vật chât",
+    "answer2": "Vật chất",
+    "answer3": "Tín hiệu",
+    "answer4": "Vật thể",
+    "correct": "Vật chất"
+  },
+  {
+    "question": " 8: Bản chất của ý thức thể hiện ở những đặc trưng nào? ",
+    "answer1": "Tính sáng tạo",
+    "answer2": "Tính xã hội",
+    "answer3": "Hình ảnh tinh thần",
+    "answer4": "Cả ba đặc trưng đã nêu trên",
+    "correct": "Cả ba đặc trưng đã nêu trên"
+  },
+  {
+    "question": " 9: Theo quan điểm của chủ nghĩa duy vật biện chứng, trong nhận thức và hoạt động thực tiễn cần: ",
+    "answer1": "Tôn trọng quy luật khách quan",
+    "answer2": "Phát huy tính năng động chủ quan",
+    "answer3": "Vừa tôn trọng quy luật vừa phát huy tính năng động chủ quan",
+    "answer4": "",
+    "correct": "Vừa tôn trọng quy luật vừa phát huy tính năng động chủ quan"
+  },
+  {
+    "question": " 10: Đặc điểm cơ bản của phép biện chứng Hy lạp cổ đại là gì? ",
+    "answer1": "Tính chất duy vật chưa triệt để",
+    "answer2": "Tính chất khoa học",
+    "answer3": "Tính chất chất phác, ngây thơ",
+    "answer4": "Tính chất duy tâm",
+    "correct": "Tính chất chất phác, ngây thơ"
+  },
+  {
+    "question": " 11: Phép biện chứng nào cho rằng, biện chứng của ý niệm sinh ra biện chứng của sự vật? ",
+    "answer1": "Phép biện chứng chất phác cổ đại",
+    "answer2": "Phép biện chứng duy tâm khách quan",
+    "answer3": "Phép biện chứng duy vật",
+    "answer4": "Phép biện chứng cổ điển Đức",
+    "correct": "Phép biện chứng duy tâm khách quan"
+  },
+  {
+    "question": " 12: Phép biện chứng nào được coi là khoa học về những quy luật phổ biến của sự vận động và sự phát triển của tự nhiên, xã hội và tư duy? ",
+    "answer1": "Phép biện chứng của Hêghen",
+    "answer2": "Phép biện chứng duy vật",
+    "answer3": "Phép biện chứng cổ đại",
+    "answer4": "Phép biện chứng cổ điển Đức",
+    "correct": "Phép biện chứng duy vật"
+  },
+  {
+    "question": " 13: Quan điểm nào cho rằng, cơ sở của mối liên hệ giữa các sự vật, hiện tượng là \"ý niệm tuyệt đối\"? ",
+    "answer1": "Chủ nghĩa duy tâm",
+    "answer2": "Chủ nghĩa duy vật",
+    "answer3": "Phép biện chứng duy tâm",
+    "answer4": "Phép biện chứng duy vật",
+    "correct": "Phép biện chứng duy tâm"
+  },
+  {
+    "question": " 14: Nguồn gốc, động lực cơ bản của sự vận động, phát triển là do:  ",
+    "answer1": "Sự thống nhất các mặt đối lập",
+    "answer2": "Sự đấu tranh giữa các mặt đối lập",
+    "answer3": "Sự thống nhất và đấu tranh giữa các mặt đối lập",
+    "answer4": "Các phương án nêu trên đều sai",
+    "correct": "Sự thống nhất và đấu tranh giữa các mặt đối lập"
+  },
+  {
+    "question": " 15: Quan điểm \"toàn diện và lịch sử cụ thể\" trong nhận thức và thực tiễn dựa trên cơ sở lý luận nào của phép biện chứng duy vật? ",
+    "answer1": "Nguyên lý về mối liên hệ và phát triển",
+    "answer2": "Nguyên lý về sự đấu tranh giữa các mặt đối lập",
+    "answer3": "Nguyên lý về mối liên hệ phổ biến",
+    "answer4": "Nguyên lý về sự phát triển",
+    "correct": "Nguyên lý về mối liên hệ phổ biến"
+  },
+  {
+    "question": " 16: Hình thức cơ bản đầu tiên của mọi quá trình tư duy là gì? ",
+    "answer1": "Biểu tượng",
+    "answer2": "Khái niệm",
+    "answer3": "Cảm giác",
+    "answer4": "Tri giác",
+    "correct": "Khái niệm"
+  },
+  {
+    "question": " 17: Hãy điền các từ vào chỗ trống để hoàn thành nhận định đúng: \" Cái.......chỉ tồn tại trong cái.......thông qua cái riêng mà biểu hiện sự tồn tại của mình\" ",
+    "answer1": "Đơn nhất/ Chung",
+    "answer2": "Chung/Đơn nhất",
+    "answer3": "Đơn nhất/ Riêng",
+    "answer4": "Chung/Riêng",
+    "correct": "Chung/Riêng"
+  },
+  {
+    "question": " 18: Câu 17: Hãy điền các từ vào chỗ trống để hoàn thành nhận định đúng: \" Cái.........chỉ tồn tại trong mối liên hệ đưa tới cái.........\" ",
+    "answer1": "Riêng/Chung",
+    "answer2": "Chung/Riêng",
+    "answer3": "Chung/Đơn nhất",
+    "answer4": "Riêng/Đơn nhất",
+    "correct": "Riêng/Chung"
+  },
+  {
+    "question": " 19: Cái .........là cái toàn bộ, phong phú hơn cái...... ",
+    "answer1": "Riêng/Chung",
+    "answer2": "Chung/Riêng",
+    "answer3": "Chung/Đơn nhất",
+    "answer4": "Riêng/Đơn nhất",
+    "correct": "Riêng/Chung"
+  },
+  {
+    "question": " Câu 20: Khi một sự vật, một hiện tượng mới nảy sinh thì yếu tố nào sẽ xuất hiện đầu tiên?  ",
+    "answer1": "Cái riêng",
+    "answer2": "Cái chung",
+    "answer3": "Cái đơn nhất",
+    "answer4": "Cái phổ biến",
+    "correct": "Cái đơn nhất"
+  }
+]

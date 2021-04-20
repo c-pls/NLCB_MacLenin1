@@ -1,0 +1,162 @@
+[
+  {
+    "question": " 1: Khi viết “Giới tự nhiên là hòn đá thử vàng của phép biện chứng”, Ănghen nhấn mạnh thực tiễn là..... ",
+    "answer1": "cơ sở của nhận thức",
+    "answer2": "mục đích của nhận thức",
+    "answer3": "động lực của nhận thức",
+    "answer4": "tiêu chuẩn của nhận thức",
+    "correct": "tiêu chuẩn của nhận thức"
+  },
+  {
+    "question": " 2: Theo quan điểm của Chủ nghĩa duy vật biện chứng, cảm giác là... ",
+    "answer1": "hình ảnh chủ quan của thế giới khách quan",
+    "answer2": "hình ảnh thực của sự vật, hiện tượng",
+    "answer3": "sản phẩm sáng tạo tư duy trừu tượng",
+    "answer4": "sự liên tưởng và trí nhớ của con người",
+    "correct": "hình ảnh chủ quan của thế giới khách quan"
+  },
+  {
+    "question": " 3: Những yếu tố nào đóng vai trò quyết định trong sự hình thành biểu tượng? ",
+    "answer1": "Cảm giác, tri giác",
+    "answer2": "Ấn tượng, trí nhớ",
+    "answer3": "Trí nhớ, giấc mơ",
+    "answer4": "Ấn tượng, giấc mơ",
+    "correct": "Cảm giác, tri giác"
+  },
+  {
+    "question": " 4: Theo quan điểm của Chủ nghĩa duy vật biện chứng, khái niệm là một hình thức.... ",
+    "answer1": "nhận thức cảm tính",
+    "answer2": "tư duy trừu tượng",
+    "answer3": "đặc thù của ngôn ngữ",
+    "answer4": "tưởng tượng",
+    "correct": "tư duy trừu tượng"
+  },
+  {
+    "question": " 5: Tùy chọn Theo quan điểm của Chủ nghĩa duy vật biện chứng, chân lý là... ",
+    "answer1": "sản phẩm sáng tạo thuần tuý của tư duy con người",
+    "answer2": "hình ảnh chủ quan của thế giới khách quan",
+    "answer3": "những danh ngôn, dạy bảo của các bậc vĩ nhân.",
+    "answer4": "tri thức phù hợp với hiện thực khách quan",
+    "correct": "tri thức phù hợp với hiện thực khách quan"
+  },
+  {
+    "question": " 6: Luận điểm: “Chân lý là phổ biến, nó không thuộc về riêng một mình tôi, mà thuộc về tất cả mọi người”, ngụ ý chân lý có tính ... ",
+    "answer1": "khách quan",
+    "answer2": "tuyệt đối",
+    "answer3": "chủ quan",
+    "answer4": "tương đối",
+    "correct": "khách quan"
+  },
+  {
+    "question": " 7: Yếu tố nào không thuộc nhận thức cảm tính ",
+    "answer1": "Cảm giác",
+    "answer2": "Tri giác",
+    "answer3": "Biểu tượng",
+    "answer4": "Phán đoán",
+    "correct": "Phán đoán"
+  },
+  {
+    "question": " 8: Yếu tố nào không thuộc nhận thức lý tính? ",
+    "answer2": "Khái niệm",
+    "answer3": "Phán đoán",
+    "answer4": "Suy luận",
+    "correct": "Cảm giác",
+    "answer1": "Cảm giác"
+  },
+  {
+    "question": "9: Hoàn thiện luận điểm: “Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến .... - đó là con đường biện chung của sự nhận thức chân lý” ",
+    "answer1": "thực tế",
+    "answer2": "thực tiễn",
+    "answer3": "hiện thực",
+    "answer4": "cuộc sống",
+    "correct": "thực tiễn"
+  },
+  {
+    "question": "10: Hoàn thiện luận điểm: “Từ trực quan sinh động đến tư duy trừu tượng, và từ tư duy trừu tượng đến thực tiễn - đó là con đường biện chứng của sự nhận thức ..., nhận thức hiện thực khách quan”",
+    "answer1": "hiện thực",
+    "answer2": "chân lý",
+    "answer3": "cuộc sống",
+    "answer4": "sự vật",
+    "correct": "chân lý"
+  },
+  {
+    "question": " 11: Yếu tố nào không phải là tính chất của chân lý? ",
+    "answer1": "tính khách quan",
+    "answer2": "tính chủ quan",
+    "answer3": "tính tương đối",
+    "answer4": "tính cụ thể",
+    "correct": "tính chủ quan"
+  },
+  {
+    "question": " 12: Yếu tố nào sau đây đóng vai trò quan trọng nhất trong đời sống con người?",
+    "answer1": "Sản xuất tinh thần",
+    "answer2": "Sản xuất ra con người",
+    "answer3": "Sản xuất vật chất",
+    "answer4": "",
+    "correct": "Sản xuất vật chất"
+  },
+  {
+    "question": " 13: Hành vi lịch sử đầu tiên  phân biệt con người với con vật là... ",
+    "answer1": "sản xuất tư  liệu sinh hoạt",
+    "answer2": "hoạt động chính trị",
+    "answer3": "nghiên cứu khoa học",
+    "answer4": "săn bắt và hái lượm",
+    "correct": "sản xuất tư  liệu sinh hoạt"
+  },
+  {
+    "question": " 14: Nghề gì đã thay thế trạng thái  ”săn bắt và hái lượm” ban đầu của con người?",
+    "answer1": "Thương nghiệp",
+    "answer2": "Du lịch, dịch vụ",
+    "answer3": "Trồng trọt, chăn nuôi",
+    "answer4": "Thủ công nghiệp",
+    "correct": "Trồng trọt, chăn nuôi"
+  },
+  {
+    "question": " 15:  Phương thức sản xuất bao gồm những yếu tố nào? ",
+    "answer1": "Công cụ lao động và đối tượng lao động",
+    "answer2": "Tư liệu sản xuất và cách sản xuất",
+    "answer3": "Lực lượng sản xuất và quan hệ sản xuất",
+    "answer4": "Khoa học và công nghệ",
+    "correct": "Lực lượng sản xuất và quan hệ sản xuất"
+  },
+  {
+    "question": " 16: Tư liệu sản xuất bao gồm những yếu tố nào? ",
+    "answer1": "Giới tự nhiên và công cụ lao động",
+    "answer2": "Con người và công cụ lao động",
+    "answer3": "Giới tự nhiên và con người",
+    "answer4": "Đối tượng và công cụ lao động",
+    "correct": "Đối tượng và công cụ lao động"
+  },
+  {
+    "question": " 17: Trong lực lượng sản xuất,  yếu tố nào sau đây giữ vai trò quan trọng nhất?",
+    "answer1": "Tư liệu sản xuất",
+    "answer2": "Khoa học- công nghệ",
+    "answer3": "Cả A và B đều đúng",
+    "answer4": "Người sản xuất",
+    "correct": "Người sản xuất"
+  },
+  {
+    "question": " 18: Trong quan hệ sản xuất, yếu tố nào giữ vai trò quan trọng nhất?",
+    "answer1": "Quan hệ sở hữu tư liệu sản xuất",
+    "answer2": "Quan hệ phân phối sản phẩm",
+    "answer3": "Quan hệ tổ chức quản lý sản xuất",
+    "answer4": "",
+    "correct": "Quan hệ sở hữu tư liệu sản xuất"
+  },
+  {
+    "question": " 19: Quan hệ nào sau đây là quan hệ kinh tế cơ bản của xã hội? ",
+    "answer1": "Quan hệ giai cấp",
+    "answer2": "Quan hệ dân tộc",
+    "answer3": "Quan hệ sản xuất",
+    "answer4": "Quan hệ tôn giáo",
+    "correct": "Quan hệ sản xuất"
+  },
+  {
+    "question": " Câu 20: Thực chất của công cuộc đổi mới ở nước ta là đổi mới từ phương diện nào?  ",
+    "answer1": "Lực lượng sản xuất",
+    "answer2": "Quan hệ sản xuất",
+    "answer3": "Quan hệ xã hội",
+    "answer4": "Phân phối sản phẩm",
+    "correct": "Quan hệ sản xuất"
+  }
+]

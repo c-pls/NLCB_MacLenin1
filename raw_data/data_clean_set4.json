@@ -1,0 +1,162 @@
+[
+  {
+    "question": " 1: Chọn câu trả lời đúng nhất: Sự khác nhau căn bản giữa lao động của con người và hoạt động của động vật, theo Mác, là gì? ",
+    "answer1": "Lao động của con người mang tính tập thể",
+    "answer2": "Trong lao động, con người giao tiếp bằng ngôn ngữ",
+    "answer3": "Con người biết chế tạo và sử dụng công cụ lao động",
+    "answer4": "Lao động của con người làm biến đổi thế giới",
+    "correct": "Con người biết chế tạo và sử dụng công cụ lao động"
+  },
+  {
+    "question": " 2: “Xe máy là cái chung, xe Honda là cái riêng”. Theo nghĩa triết học? ",
+    "answer1": "Đúng",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "Sai",
+    "correct": "Sai"
+  },
+  {
+    "question": " 3: Hoàn thành định nghĩa: “Cái riêng là phạm trù triết học dùng để chỉ............” ",
+    "answer1": "một đặc điểm lặp lại ở các sự vật",
+    "answer2": "một nét đặc thù có ở một sự vật",
+    "answer3": "một sự vật, một quá trình nhất định",
+    "answer4": "một sự vật thuộc về người cụ thể",
+    "correct": "một sự vật, một quá trình nhất định"
+  },
+  {
+    "question": " 4: Hoàn thành định nghĩa: “Cái đơn nhất là phạm trù triết học dùng để chỉ..............” ",
+    "answer1": "Những thuộc tính được lặp lại ở các sự vật",
+    "answer2": "Những nét đặc trưng của sự vật",
+    "answer3": "Những thuộc tính chỉ có ở một sự vật",
+    "answer4": "Một sự vật, một quá trình đơn lẻ",
+    "correct": "Những thuộc tính chỉ có ở một sự vật"
+  },
+  {
+    "question": " 5: Hoàn thành định nghĩa: “..........là phạm trù triết học chỉ một sự vật, một hiện tượng, một quá trình nhất định”. ",
+    "answer1": "Cái đơn nhất",
+    "answer2": "Cái tất nhiên.",
+    "answer3": "Cái chung",
+    "answer4": "Cái riêng",
+    "correct": "Cái riêng"
+  },
+  {
+    "question": " 6: Quan điểm của Chủ nghĩa duy vật biện chứng về mối quan hệ giữa cái riêng và cái chung? ",
+    "answer1": "Không có cái chung bên ngoài cái riêng",
+    "answer2": "Cái chung không phụ thuộc  riêng",
+    "answer3": "Cái riêng không bao chứa cái chung",
+    "answer4": "Cái riêng và cái chung tồn tại độc lập",
+    "correct": "Không có cái chung bên ngoài cái riêng"
+  },
+  {
+    "question": " 7: Theo CNDVBC, luận điểm sau đúng hay sai: “Chỉ có thể tìm cái chung trong cái riêng, xuất phát từ cái riêng” ",
+    "answer1": "Đúng",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "Sai",
+    "correct": "Đúng"
+  },
+  {
+    "question": "8: Phạm trù triết học dùng để chỉ những sự biến đổi xuất hiện do tác động lẫn nhau giữa các mặt trong một sự vật hoặc giữa các sự vật, gọi là gì? ",
+    "answer2": "Kết quả",
+    "answer3": "Phủ định",
+    "answer4": "Tất nhiên",
+    "correct": "Khả năng",
+    "answer1": "Kết quả"
+  },
+  {
+    "question": " 9: . Hãy chỉ ra một luận điểm sai theo quan điểm Chủ nghĩa duy vật biện chứng?",
+    "answer1": "Một kết quả có thể gây nên bởi nhiều nguyên nhân",
+    "answer2": "Kết quả luôn thúc đẩy nguyên nhân sinh ra nó",
+    "answer3": "Nguyên nhân và kết quả có thể thay đổi vị trí cho nhau",
+    "answer4": "Kết quả có thể kìm hãm nguyên nhân sinh ra nó",
+    "correct": "Kết quả luôn thúc đẩy nguyên nhân sinh ra nó"
+  },
+  {
+    "question": " 10: Theo Chủ nghĩa duy vật biện chứng, khẳng định nào dưới đây là sai?",
+    "answer1": "Mọi cái tất yếu đều là cái chung",
+    "answer2": "Không phải cái chung nào cũng là tất yếu",
+    "answer3": "Một số cái chung là cái tất yếu",
+    "answer4": "Mọi cái chung đều là cái tất yếu",
+    "correct": "Mọi cái chung đều là cái tất yếu"
+  },
+  {
+    "question": " 11: Phạm trù triết học dùng để chỉ cái có thể xảy ra, hoặc không xảy ra, gọi là gì?",
+    "answer1": "Nguyên nhân.",
+    "answer2": "Ngẫu nhiên.",
+    "answer3": "Khả năng.",
+    "answer4": "Vận động.",
+    "correct": "Ngẫu nhiên."
+  },
+  {
+    "question": " 12: Điền vào chỗ trống để hoàn thành định nghĩa: “Hình thức là hệ thống.........................giữa các yếu tố của sự vật”",
+    "answer1": "Mối liên hệ tương đối bền vững",
+    "answer2": "Chuyển hóa lẫn nhau",
+    "answer3": "Mối liên kết bề ngoài",
+    "answer4": "Chi phối lẫn nhau",
+    "correct": "Mối liên hệ tương đối bền vững"
+  },
+  {
+    "question": " 13: Hãy chỉ ra một kết luận sai.",
+    "answer1": "Hình thức thúc đẩy nội dung nếu nó phù hợp với nội dung.",
+    "answer2": "Nội dung bao giờ cũng biến đổi trước, hình thức biến đổi sau.",
+    "answer3": "Hình thức luôn cản trở sự phát triển của nội dung.",
+    "answer4": "Nội dung quyết dịnh hình thức trong sự phát triển của sự vật.",
+    "correct": "Hình thức luôn cản trở sự phát triển của nội dung."
+  },
+  {
+    "question": "14: Hoàn thành định nghĩa: “Bản chất là tổng hợp tất cả những mặt, những.........................., tương đối ổn định, bên trong sự vật quy định sự vận động phát triển”.",
+    "answer1": "thuộc tính cơ bản.",
+    "answer2": "mâu thuẫn biện chứng.",
+    "answer3": "mối liên hệ tất nhiên.",
+    "answer4": "quá trình khách quan",
+    "correct": "mối liên hệ tất nhiên."
+  },
+  {
+    "question": " 15: . Đâu là quan điểm của chủ nghĩa duy vật biện chứng? ",
+    "answer1": "Bản chất tồn tại khách quan bên ngoài sự vật",
+    "answer2": "Hiện tượng là tổng hợp những cảm giác",
+    "answer3": "Bản chất và hiện tượng là những thực thể độc lập",
+    "answer4": "Bản chất và hiện tượng là cái vốn có của sự vật.",
+    "correct": "Bản chất và hiện tượng là cái vốn có của sự vật."
+  },
+  {
+    "question": " 16: Những dấu hiệu để phân biệt hiện thực với khả năng? ",
+    "answer1": "Sự có mặt trên thực tế của sự vật.",
+    "answer2": "Nhận biết được hay không nhận biết được.",
+    "answer3": "Chủ quan hay khách quan",
+    "answer4": "Vận động hay đứng im",
+    "correct": "Sự có mặt trên thực tế của sự vật."
+  },
+  {
+    "question": " 17: Hoàn thành định nghĩa: “Khả năng là phạm trù triết học chỉ..............khi có đủ điều kiện thich hợp ",
+    "answer1": "Năng lực của con người",
+    "answer2": "Những tiền đề của sự vật",
+    "answer3": "Cái chưa có, nhưng sẽ có.",
+    "answer4": "Sự biến đổi của sự vật.",
+    "correct": "Cái chưa có, nhưng sẽ có."
+  },
+  {
+    "question": " 18: Phạm trù chỉ những cái chưa xuất hiện, chưa tồn tại trên thực tế, nhưngsẽ xuất hiện, sẽ tồn tại thực sự khi có các điều kiện gọi là gì? ",
+    "answer1": "Tương lai",
+    "answer2": "Khả năng",
+    "answer3": "Hiện thực",
+    "answer4": "Phát triển",
+    "correct": "Khả năng"
+  },
+  {
+    "question": " 19: Người ta chia quy luật thành, quy luật tự nhiên, quy luật xã hội và quy luật tư duy là căn cứ vào",
+    "answer1": "lĩnh vực tác động",
+    "answer2": "mức độ  tác động",
+    "answer3": "quy mô tác động",
+    "answer4": "tính chất tác động",
+    "correct": "lĩnh vực tác động"
+  },
+  {
+    "question": " 20: Phép biện chứng duy vật nghiên cứu những loại quy luật nào?",
+    "answer1": "Quy luật riêng",
+    "answer2": "Quy luật tự nhiên.",
+    "answer3": "Quy luật phổ biến",
+    "answer4": "Quy luật tự nhiên.",
+    "correct": "Quy luật phổ biến"
+  }
+]

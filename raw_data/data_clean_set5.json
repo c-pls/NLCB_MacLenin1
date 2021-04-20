@@ -1,0 +1,162 @@
+[
+  {
+    "question": " 1: Các quy luật của logic hình thức thuộc dạng quy luật nào? ",
+    "answer1": "Quy luật tự nhiên",
+    "answer2": "Quy luật xã hội",
+    "answer3": "Quy luật tư duy",
+    "answer4": "",
+    "correct": "Quy luật tư duy"
+  },
+  {
+    "question": " 2: Phép biện chứng duy vật nghiên cứu những loại quy luật nào?",
+    "answer1": "Quy luật xã hội",
+    "answer2": "Quy luật phổ biến",
+    "answer3": "Quy luật tự nhiên.",
+    "answer4": "Quy luật riêng",
+    "correct": "Quy luật phổ biến"
+  },
+  {
+    "question": " 3: Câu tục ngữ “Có công mài sắt có ngày nên kim” thể hiện cơ bản nội dung quy luật nào? *",
+    "answer1": "Quy luật phủ định của phủ định",
+    "answer2": "Quy luật mâu thuẫn",
+    "answer3": "Quy luật lượng đổi, chất đổi",
+    "answer4": "",
+    "correct": "Quy luật lượng đổi, chất đổi"
+  },
+  {
+    "question": " 4: Quy luật nào sau đây vạch ra nguồn gốc, động lực của sự phát triển? *1 point",
+    "answer1": "Quy luật mâu thuẫn",
+    "answer2": "Quy luật phủ định của phủ định",
+    "answer3": "Quy luật lượng đổi, chất đổi",
+    "answer4": "",
+    "correct": "Quy luật mâu thuẫn"
+  },
+  {
+    "question": " 5: Sự thống nhất giữa lượng và chất được thể hiện thông qua phạm trù nào?",
+    "answer1": "Bước nhảy",
+    "answer2": "Thuộc tính",
+    "answer3": "Độ",
+    "answer4": "Điểm nút",
+    "correct": "Độ"
+  },
+  {
+    "question": " 6: Khái niệm “đường nút” trong quy luật lượng chất nói lên tính chất gì của sự phát triển? ",
+    "answer1": "Phát triển là một quá trình liên tục",
+    "answer2": "Phát triển là một quá trình gián đoạn",
+    "answer3": "Phát triển là liên tục qua những  gián đoạn",
+    "answer4": "",
+    "correct": "Phát triển là liên tục qua những  gián đoạn"
+  },
+  {
+    "question": " 7: Có phải mọi sự thay đổi về lượng đều làm cho sự vật thay đổi về chất hay không?",
+    "answer1": "Có",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "Không",
+    "correct": "Không"
+  },
+  {
+    "question": " 8: Ai là người đầu tiên phát hiện ra quy luật đấu tranh giai cấp? ",
+    "answer2": "Hêghen",
+    "answer3": "Mác",
+    "answer4": "Ăngghen",
+    "correct": "Mác",
+    "answer1": "Lênin"
+  },
+  {
+    "question": " 9: Lượng đổi trong quy luật lượng chất có nghĩa là... ",
+    "answer1": "lượng tăng lên",
+    "answer2": "lượng giảm đi",
+    "answer3": "lượng tăng, giảm.",
+    "answer4": "lượng ổn định",
+    "correct": "lượng tăng, giảm."
+  },
+  {
+    "question": " 10: Khái niệm  “Độ” trong quy luật lượng chất đồng nghĩa với những khái niệm nào?",
+    "answer1": "Giới hạn, mức độ, chuẩn mực, thời hạn.",
+    "answer2": "Trạng thái và hình thức tồn tại",
+    "answer3": "Nhiệt độ, độ lớn, độ dài, độ rộng",
+    "answer4": "Hình thức, khuôn mẫu, kích thước",
+    "correct": "Giới hạn, mức độ, chuẩn mực, thời hạn."
+  },
+  {
+    "question": " 11: . Quy luật lượng chất có vận dụng vào lĩnh vực hoạt động ngôn ngữ được không? ",
+    "answer1": "Có",
+    "answer2": "",
+    "answer3": "",
+    "answer4": "Không",
+    "correct": "Có"
+  },
+  {
+    "question": " 12: Quan điểm cho rằng, phát triển là quá trình tăng về lượng mà không biến đổi về chất thuộc lập trường nào? *1 point",
+    "answer1": "Duy tâm khách quan",
+    "answer2": "Duy tâm chủ quan",
+    "answer3": "Duy vật biện chứng",
+    "answer4": "Duy vật siêu hình",
+    "correct": "Duy vật siêu hình"
+  },
+  {
+    "question": " 13: Thuyết Âm-Dương trong triết học Trung Quốc về cơ bản phản ánh nội dung quy luật nào? ",
+    "answer1": "Quy luật lượng chất",
+    "answer2": "Quy luật mâu thuẫn",
+    "answer3": "Quy luật phủ định của phủ định",
+    "answer4": "",
+    "correct": "Quy luật mâu thuẫn"
+  },
+  {
+    "question": " 14: Khi đưa ra quan điểm “phát huy nội lực”, Đảng ta đã nhận thức được vai trò quyết định của mâu thuẫn nào? *1 point",
+    "answer1": "Mâu thuẫn bên trong",
+    "answer2": "Mâu thuẫn bên ngoài",
+    "answer3": "Mâu thuẫn đối kháng",
+    "answer4": "Mâu thuẫn không đối kháng",
+    "correct": "Mâu thuẫn bên trong"
+  },
+  {
+    "question": " 15: Chọn phương án đúng: Phát triển là quá trình được thực hiện bởi... ",
+    "answer1": "sự vận động của chính bản thân mâu thuẫn ở sự vật",
+    "answer2": "sự tích lũy dần về lượng ở bản thân sự vật cũ",
+    "answer3": "sự phủ định biện chứng đối với sự vật cũ",
+    "answer4": "Tất cả các phương án kể trên đều đúng",
+    "correct": "Tất cả các phương án kể trên đều đúng"
+  },
+  {
+    "question": " 16: Mâu thuẫn chủ yếu là mâu thuẫn.... ",
+    "answer1": "quy định bản chất và sự phát triển của sự vật",
+    "answer2": "nổi lên hàng đầu, đòi hỏi cần giải quyết kịp thời",
+    "answer3": "giữa các lực lượng xã hội có lợi ích trái ngược",
+    "answer4": "giữa các mặt, các yếu tố cấu thành sự vật",
+    "correct": "nổi lên hàng đầu, đòi hỏi cần giải quyết kịp thời"
+  },
+  {
+    "question": "Câu 17: Câu tục ngữ “Tre già, măng mọc” đề cập đến loại hình phủ định gì? *",
+    "answer1": "Phủ định siêu hình",
+    "answer2": "Phủ định biện chứng",
+    "answer3": "Phủ định của phủ định",
+    "answer4": "",
+    "correct": "Phủ định biện chứng"
+  },
+  {
+    "question": "Câu 18: Quy luật phủ định của phủ định phản ánh sự phát triển đi lên của sự vật theo hướng nào? *",
+    "answer1": "Đường xoáy trôn ốc",
+    "answer2": "Đường thẳng tuyến tính",
+    "answer3": "Vòng tròn khép kín",
+    "answer4": "Đường lượn hình sin",
+    "correct": "Đường xoáy trôn ốc"
+  },
+  {
+    "question": "Câu 19: . Luận điểm Lênin:“Hắt luôn cả đứa trẻ cùng với nước trong chậu tắm” phê phán quan điểm nào? *",
+    "answer1": "Phủ định sạch trơn",
+    "answer2": "Phủ định biện chứng",
+    "answer3": "Phủ định có kế thừa",
+    "answer4": "Phủ định của phủ định",
+    "correct": "Phủ định sạch trơn"
+  },
+  {
+    "question": "Câu 20: Theo quan niệm triết học Mác - Lênin, thực tiễn là....? *",
+    "answer1": "hiện thực khách quan tồn tại bên ngoài con người",
+    "answer2": "hoạt động vật chất, mang tính lịch sử - xã hội của con người",
+    "answer3": "hoạt động trong mọi lĩnh vực đời sống con người",
+    "answer4": "hoạt động tinh thần, vui chơi giải trí của con người",
+    "correct": "hoạt động vật chất, mang tính lịch sử - xã hội của con người"
+  }
+]

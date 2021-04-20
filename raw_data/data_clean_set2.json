@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Câu 1: Chủ nghĩa Mác được hình thành vào giai đoạn lịch sử nào? ",
+    "answer1": "Những năm bốn mươi của thế kỷ XVII",
+    "answer2": "Những năm bốn mươi của thế kỷ XVIII",
+    "answer3": "Những năm bốn mươi của thế kỷ XIX",
+    "answer4": "Những năm bốn mươi của thế kỷ XX",
+    "correct": "Những năm bốn mươi của thế kỷ XIX"
+  },
+  {
+    "question": "Câu 2: Tiền đề lý luận hình thành thế giới quan và phương pháp luận triết học Mác? ",
+    "answer1": "Triết học cổ điển Đức",
+    "answer2": "Triết học cổ đại",
+    "answer3": "Triết học trung đại",
+    "answer4": "Triết học cận đại",
+    "correct": "Triết học cổ điển Đức"
+  },
+  {
+    "question": "Câu 3: Tư tưởng triết gia nào tạo bước chuyển cho Mác từ duy tâm sang duy vật?",
+    "answer1": "Arixtốt",
+    "answer2": "Kant",
+    "answer3": "Hêghen",
+    "answer4": "Phoiơbắc",
+    "correct": "Phoiơbắc"
+  },
+  {
+    "question": "Câu 4: Thành tựu khoa học nào đã bác bỏ quan điểm siêu hình và thần học về vai trò Đấng tối cao? ",
+    "answer1": "Cả ba phát minh trên",
+    "answer2": "Thuyết tiến hóa",
+    "answer3": "Thuyết tế bào",
+    "answer4": "Quy luật bảo toàn và chuyển hóa năng lượng",
+    "correct": "Cả ba phát minh trên"
+  },
+  {
+    "question": "Câu 5: Mác đã kế thừa những giá trị biện chứng duy tâm của triết gia nào?",
+    "answer1": "Shelling",
+    "answer2": "Phoiơbắc",
+    "answer3": "Kant",
+    "answer4": "Hêghen",
+    "correct": "Hêghen"
+  },
+  {
+    "question": "Câu 6: Chủ nghĩa Mác-Lênin cấu thành từ mấy bộ phận? ",
+    "answer1": "Ba bộ phận",
+    "answer2": "Bốn bộ phận",
+    "answer3": "Năm bộ phận",
+    "answer4": "Hai bộ phận",
+    "correct": "Ba bộ phận"
+  },
+  {
+    "question": "Câu 7: Triết học ra đời trong xã hội nào? ",
+    "answer1": "Tư bản chủ nghĩa",
+    "answer2": "Chiếm hữu nô lệ",
+    "answer3": "Phong kiến",
+    "answer4": "Công xã nguyên thủy",
+    "correct": "Chiếm hữu nô lệ"
+  },
+  {
+    "question": "Câu 8: Hệ thống quan niệm của con người về thế giới, về con người và vai trò con người trong thế giới đó, gọi là gì?",
+    "answer1": "Lý luận",
+    "answer2": "Khoa học",
+    "answer3": "Thế giới quan",
+    "answer4": "Nhân sinh quan",
+    "correct": "Nhân sinh quan"
+  },
+  {
+    "question": "Câu 9: Học thuyết triết học phản ánh quan điểm duy vật biện chứng của người Trung Hoa cổ đại?",
+    "answer1": "Âm-Dương",
+    "answer2": "Đạo Gia",
+    "answer3": "Nho Gia",
+    "answer4": "Pháp Gia",
+    "correct": "Âm-Dương"
+  },
+  {
+    "question": "Câu 10: Nhà triết học nào cho rằng  “Thế giới ý niệm có trước thế giới vật chất và sinh ra thế giới vật chất”",
+    "answer1": "Hêraclít",
+    "answer2": "Arixtốt",
+    "answer3": "Platôn",
+    "answer4": "Đêmôcrít",
+    "correct": "Platôn"
+  },
+  {
+    "question": "Câu 11: Khi nói vật chất là cái được cảm giác của chúng ta chép lại, chụp lại, phản ánh, về mặt nhận thức luận Lênin muốn khẳng định điều gì? ",
+    "answer1": "Ý thức phụ thuộc vào vật chất",
+    "answer2": "Ý thức có khả năng phản ánh đúng thế giới",
+    "answer3": "Vật chất là tính thứ nhất và ý thức là tính thứ hai",
+    "answer4": "Ý thức chỉ là sự sao chép thế giới vật chất",
+    "correct": "Ý thức có khả năng phản ánh đúng thế giới"
+  },
+  {
+    "question": "Câu 12: Người đưa ra định nghĩa hoàn chỉnh về vật chất là ai? ",
+    "answer1": "Các Mác",
+    "answer2": "Ăngghen",
+    "answer3": "Lênin",
+    "answer4": "CP",
+    "correct": "Lênin"
+  },
+  {
+    "question": "Câu 13: Lênin khái quát đặc tính quan trọng nhất của vật chất để phân biệt với ý thức, đó là đặc tính gì?",
+    "answer1": "Chủ quan",
+    "answer2": "Khách quan",
+    "answer3": "Phản ánh",
+    "answer4": "Cảm giác",
+    "correct": "Khách quan"
+  },
+  {
+    "question": "Câu 14: Hoàn thành định nghĩa vật chất của Leenin : “Vật chất là phạm trù triết học dùng để chỉ………….…. được đem lại cho con người trong cảm giác”. *0/1",
+    "answer1": "thực tế khách quan",
+    "answer2": "hiện thực khách quan",
+    "answer3": "vật thể khách quan",
+    "answer4": "thực tại khách quan",
+    "correct": "thực tại khách quan"
+  },
+  {
+    "question": "Câu 15: Hãy chỉ ra một mệnh đề sai theo quan điểm của chủ nghĩa duy vật biện chứng.",
+    "answer1": "Vận động cao xuất hiện trên cơ sở vận động thấp",
+    "answer2": "Các hình thức vận động khác nhau về chất",
+    "answer3": "Mỗi hình thức vận động ứng với một kết cấu vật chất",
+    "answer4": "Mỗi một sự vật gắn với một hình thức vận động",
+    "correct": "Mỗi một sự vật gắn với một hình thức vận động"
+  },
+  {
+    "question": "Câu 16: Theo triết học Mác-Lênin, luận đề: “Không có đứng im tương đối thì không có sự vật nào tồn tại cả”  đúng hay sai? ",
+    "answer1": "",
+    "answer2": "Đúng",
+    "answer3": "Sai",
+    "answer4": "",
+    "correct": "Đúng"
+  },
+  {
+    "question": "Câu 17: Theo quan điểm của chủ nghĩa duy vật, động vật có thể đạt tới hình thức phản ánh nào? *0/1",
+    "answer1": "Tâm lý",
+    "answer2": "Cảm ứng",
+    "answer3": "Ý thức",
+    "answer4": "Sao chép",
+    "correct": "Tâm lý"
+  },
+  {
+    "question": "Câu 18: Khi hai sự vật tác động qua lại làm xuất hiện sự phản ánh và trình độ phản ánh về cơ bản phụ thuộc vào yếu tố nào? *0/1",
+    "answer1": "Cấu trúc vật tác động",
+    "answer2": "Cấu trúc vật nhận tác động",
+    "answer3": "Cả vật tác động và vật nhận tác động",
+    "answer4": "",
+    "correct": "Cấu trúc vật nhận tác động"
+  },
+  {
+    "question": "Câu 19: Chọn câu trả lời đúng nhất: Theo quan điểm Chủ nghĩa duy vật biện chứng. Ý thức…",
+    "answer1": "tồn tại không phụ thuộc vào não người",
+    "answer2": "là sản phẩm của mọi dạng vật chất",
+    "answer3": "là sản phẩm tinh thần của não người",
+    "answer4": "là sản phẩm vật chất của não người",
+    "correct": "là sản phẩm tinh thần của não người"
+  },
+  {
+    "question": "Câu 20: Nguồn gốc sâu xa của ngôn ngữ là gì? ",
+    "answer1": "Nhu cầu giao tiếp",
+    "answer2": "Lao động",
+    "answer3": "Ngẫu nhiên",
+    "answer4": "Sáng tạo chủ quan",
+    "correct": "Lao động"
+  }
+]

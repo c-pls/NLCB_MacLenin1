@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Câu 1: Ý thức xã hội được cấu thành từ những nhân tố nào? *",
+    "answer1": "Tâm lý xã hội và hệ tư tưởng",
+    "answer2": "Văn hóa và tôn giáo",
+    "answer3": "Văn hóa và chính trị",
+    "answer4": "Tình cảm và hệ tư tưởng",
+    "correct": "Tâm lý xã hội và hệ tư tưởng"
+  },
+  {
+    "question": "Câu 2: Chọn phương án sai: Tâm lý xã hội có những đặc điểm gì? *",
+    "answer1": "Phản ánh gián tiếp đời sống",
+    "answer2": "Nặng về tình cảm",
+    "answer3": "Phản ánh trực tiếp đời sống",
+    "answer4": "Biến đổi nhanh",
+    "correct": "Phản ánh gián tiếp đời sống"
+  },
+  {
+    "question": "Câu 3: Hệ tư tưởng có đặc điểm gì? *",
+    "answer1": "Nặng về tình cảm",
+    "answer2": "Phản ánh trực tiếp đời sống xã hội",
+    "answer3": "Phản ánh trình độ trí tuệ",
+    "answer4": "Mang tính chủ quan",
+    "correct": "Phản ánh trình độ trí tuệ"
+  },
+  {
+    "question": "Câu 4: Qua luận điểm “Sức mạnh của tập quán được tạo ra qua nhiều thế hệ là sức mạnh ghê gớm nhất”, Lênin ngụ ý điều gì? *",
+    "answer1": "Tính độc lập của ý thức xã hội",
+    "answer2": "Tác động giữa các hình thái ý thức xã hội",
+    "answer3": "Tác động trở lại của ý thức xã hội với tồn tại xã hội",
+    "answer4": "Tính tiên phong của ý thức xã hội.",
+    "correct": "Tác động trở lại của ý thức xã hội với tồn tại xã hội"
+  },
+  {
+    "question": "Câu 5: Luận điểm nào là đúng, theo quan điểm của chủ nghĩa duy vật lịch sử? *",
+    "answer1": "Quan hệ sản xuất có thể vượt trước trình độ phát triển của lực lượng sản xuất",
+    "answer2": "Quan hệ sản xuất có thể vượt trước trình độ phát triển của lực lượng sản xuất tùy theo điều kiện cụ thể",
+    "answer3": "Quan hệ sản xuất có thể lạc hậu hơn trình độ phát triển của lực lượng sản xuất",
+    "answer4": "Quan hệ sản xuất phải phù hợp với trình độ phát triển của lực lượng sản xuất",
+    "correct": "Quan hệ sản xuất phải phù hợp với trình độ phát triển của lực lượng sản xuất"
+  },
+  {
+    "question": "Câu 6:  Theo quan điểm của chủ nghĩa duy vật lịch sử? Trong mối giữa Lực lượng sản xuất và Quan hệ sản xuất: *",
+    "answer1": "Cả hai yếu tố đều có tính ổn định, ít biến đổi",
+    "answer2": "Lực lượng sản xuất là yếu tố thường xuyên biến đổi, phát triển",
+    "answer3": "Quan hệ sản xuất là yếu tố thường xuyên biến đổi, phát triển",
+    "answer4": "Cả hai là các yếu tố thường xuyên biến đổi, phát triển",
+    "correct": "Lực lượng sản xuất là yếu tố thường xuyên biến đổi, phát triển"
+  },
+  {
+    "question": "Câu 7: Theo quan điểm của chủ nghĩa duy vật lịch sử, quan hệ cơ bản nhất quyết định mọi quan hệ khác của xã hội là... *",
+    "answer1": "quan hệ văn hóa",
+    "answer2": "quan hệ tôn giáo",
+    "answer3": "quan hệ chính trị",
+    "answer4": "quan hệ kinh tế",
+    "correct": "quan hệ kinh tế"
+  },
+  {
+    "question": "Câu 8: Truyền thống dân tộc phản ánh đặc điểm gì của ý thức xã hội? *",
+    "answer1": "Tính độc lập",
+    "answer2": "Tính kế thừa",
+    "answer3": "Tính tiên phong",
+    "answer4": "Tính lạc hậu",
+    "correct": "Tính kế thừa"
+  },
+  {
+    "question": "Câu 9: Mối quan hệ giữa cơ sở hạ tầng và kiến trúc thượng tầng là mối quan hệ... *",
+    "answer1": "luôn thống nhất với nhau",
+    "answer2": "luôn đối lập với nhau",
+    "answer3": "thống nhất là chủ đạo, đấu tranh là tạm thời",
+    "answer4": "thống nhất và đấu tranh giữa hai mặt đối lập",
+    "correct": "thống nhất và đấu tranh giữa hai mặt đối lập"
+  },
+  {
+    "question": "Câu 10: Hình thái Kinh tế -Xã hội là một phạm trù dùng để biểu thị? *",
+    "answer1": "Một kiểu nhà nước trong lịch sử",
+    "answer2": "Một xã hội ở từng giai đoạn lịch sử nhất định",
+    "answer3": "Một phương thức sinh sống của xã hội",
+    "answer4": "Một nền văn minh trong lịch sử",
+    "correct": "Một xã hội ở từng giai đoạn lịch sử nhất định"
+  },
+  {
+    "question": "Câu\n 11: Theo quan điểm duy vật lịch sử, yếu tố cơ bản nhất tạo thành điều \nkiện sinh hoạt vật chất của xã hội là các yếu tố thuộc về: *",
+    "answer1": "Điều kiện về dân số",
+    "answer2": "Không có yếu tố nào là cơ bản nhất, tùy thuộc vào từng điều kiện lịch sử",
+    "answer3": "Phương thức sản xuất của cải vật chất",
+    "answer4": "Điều kiện tự nhiên",
+    "correct": "Phương thức sản xuất của cải vật chất"
+  },
+  {
+    "question": "Câu 12: Ai là người đầu tiên nêu ra phạm trù “hình thái kinh tế - xã hội”? *",
+    "answer1": "Hêghen",
+    "answer2": "V.I.Lênin",
+    "answer3": "Ph.Ănghen",
+    "answer4": "C. Mác",
+    "correct": "C. Mác"
+  },
+  {
+    "question": "Câu 13: Tính thống nhất trong sự đa dạng về con đường phát triển của lịch sử xã hội loài người là gì? *",
+    "answer1": "Phát triển phụ thuộc vào ý muốn con người",
+    "answer2": "Phát triển từ Phương thức sản xuất thấp lên trình độ cao hơn",
+    "answer3": "Phát triển không tuân theo một quy luật nào",
+    "answer4": "Phát triển phụ thuộc vào điều kiện lịch sử",
+    "correct": "Phát triển từ Phương thức sản xuất thấp lên trình độ cao hơn"
+  },
+  {
+    "question": "Câu\n 14: Qua  luận điểm: “Cái cối xay quay bằng tay đưa lại xã hội có lãnh \nchúa phong kiến, cái cối xay chạy bằng hơi nước đưa lại xã hội có nhà tư\n bản công nghiệp”,  Mác hàm ý gì? *",
+    "answer1": "Vai trò quyết định của kinh tế đối với chính trị",
+    "answer2": "Vai trò quyết định của quan hệ sản xuất đối với lực lượng sản xuất",
+    "answer3": "Quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất",
+    "answer4": "Vai trò quyết định của lực lượng sản xuất đối với quan hệ sản xuất",
+    "correct": "Vai trò quyết định của lực lượng sản xuất đối với quan hệ sản xuất"
+  },
+  {
+    "question": "Câu\n 15: Qua luận điểm: “Sự phát triển của các hình thái kinh tế - xã hội là\n một quá trình lịch sử tự nhiên”, Mác khẳng định lịch sử xã hội loài \nngười phát triển.... *",
+    "answer1": "phụ thuộc vào ý thức con người",
+    "answer2": "theo quy luật tất yếu khách quan",
+    "answer3": "tuỳ thuộc vào ý chí Thượng đế",
+    "answer4": "phụ thuộc quy luật tự nhiên",
+    "correct": "theo quy luật tất yếu khách quan"
+  },
+  {
+    "question": "Câu 16: Có thể so sánh Lực lượng sản xuất và Quan hệ sản xuất với cặp phạm trù nào sau đây? *",
+    "answer1": "Cái riêng và cái chung",
+    "answer2": "Nguyên nhân và kết quả",
+    "answer3": "Bản chất và hiện tượng",
+    "answer4": "Nội dung và hình thức",
+    "correct": "Nội dung và hình thức"
+  },
+  {
+    "question": "Câu 17: Lực lượng sản xuất là nội dung vật chất, Quan hệ sản xuất là hình thức xã hội của quá trình sản xuất, đúng hay sai? *",
+    "answer1": "Đúng",
+    "answer2": "Sai",
+    "answer3": "",
+    "answer4": "",
+    "correct": "Đúng"
+  },
+  {
+    "question": "Câu 18: Trong hình thái kinh tế - xã hội Công xã nguyên thuỷ, quan hệ sản xuất dựa trên chế độ gì? *",
+    "answer1": "Có sự đan xen giữa công hữu và tư hữu",
+    "answer2": "Tư hữu về tư liệu sản xuất",
+    "answer3": "Công hữu về tư liệu sản xuất",
+    "answer4": "",
+    "correct": "Công hữu về tư liệu sản xuất"
+  },
+  {
+    "question": "Câu 19: Khi tiếp cận lịch sử theo hình thái kinh tế - xã hội, Mác đã dựa trên tiêu chí nào?",
+    "answer1": "Phương thức sinh sống",
+    "answer2": "Tư hữu về tư liệu sản xuất",
+    "answer3": "Trình độ phát triển khoa học",
+    "answer4": "Trình độ phát triển của văn hóa",
+    "correct": "Phương thức sản xuất"
+  },
+  {
+    "question": "Câu 20: Hoàn thiện câu nói của Mác: “ Sự phát triển của các hình thái kinh tế - xã hội là một quá trình lịch sử ...” ",
+    "answer1": "tất yếu",
+    "answer2": "ngẫu nhiên",
+    "answer3": "tự nhiên",
+    "answer4": "khách quan",
+    "correct": "tự nhiên"
+  }
+]
