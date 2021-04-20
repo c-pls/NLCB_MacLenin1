@@ -29,6 +29,7 @@ nextButton.addEventListener("click", () => {
 });
 
 function startGame() {
+  total_score = 0;
   set = Math.floor(Math.random() * 12);
   console.log(set);
   let actualSet = set + 1;
@@ -1671,7 +1672,7 @@ const questions = [
       answer2: "Chính trị",
       answer3: "Quân sự",
       answer4: "Đối ngoại",
-      correct: "",
+      correct: "Kinh tế",
     },
     {
       question:
