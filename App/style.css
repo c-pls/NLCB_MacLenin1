@@ -68,9 +68,13 @@ h2 {
 
 .btn:hover {
   color: #004085;
-  background: #cce5ff;
+  background: #edf8ef00;
 
   border: 1px solid #b8daff;
+}
+
+.hover-off {
+  pointer-events: none;
 }
 
 .btn.correct {

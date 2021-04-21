@@ -15,6 +15,7 @@ nextButton.addEventListener("click", () => {
   answerField.forEach((element) => {
     while (element !== startButton) {
       element.classList.remove("hide");
+      turnOffHover(element, false);
       break;
     }
 
@@ -38,12 +39,17 @@ function startGame() {
       actualSet +
       "." +
       "\n" +
-      "If you want to move to another set,please hit OK and then refresh the Website "
+      "If you want to move to another set,please hit OK and then refresh the Website " +
+      "\n" +
+      "Enjoy !!!" +
+      "\n" +
+      "Author: Chinh Pham"
   );
   scoreField.classList.add("hide");
   answerField.forEach((element) => {
     clearStatusClass(element);
     element.disabled = false;
+    turnOffHover(element, false);
   });
   startButton.classList.add("hide");
   currentQuestionIndex = 0;
@@ -101,6 +107,7 @@ function selectAnswer(e) {
       setStatusClass(answerField[i], true);
     }
     answerField[i].disabled = true;
+    turnOffHover(answerField[i], true);
   }
 
   if (question_container.length > currentQuestionIndex + 1) {
@@ -125,6 +132,15 @@ function setStatusClass(element, correct) {
 function clearStatusClass(element) {
   element.classList.remove("correct");
   element.classList.remove("wrong");
+}
+
+function turnOffHover(element, conditon) {
+  // if true, turn off hovering
+  if (conditon) {
+    element.classList.add("hover-off");
+  } else {
+    element.classList.remove("hover-off");
+  }
 }
 
 /**
@@ -493,6 +509,7 @@ const questions = [
       correct: "Lao động",
     },
   ],
+  // set 3
   [
     {
       question:
@@ -672,7 +689,7 @@ const questions = [
       correct: "rộng nhất",
     },
   ],
-
+  // set 4
   [
     {
       question:
@@ -852,6 +869,8 @@ const questions = [
       correct: "Quy luật phổ biến",
     },
   ],
+
+  // set 5
   [
     {
       question:
@@ -1032,7 +1051,7 @@ const questions = [
       correct: "hoạt động vật chất, mang tính lịch sử - xã hội của con người",
     },
   ],
-
+  // set 6
   [
     {
       question:
@@ -1202,7 +1221,7 @@ const questions = [
     },
     {
       question:
-        "Câu Câu 20: Thực chất của công cuộc đổi mới ở nước ta là đổi mới từ phương diện nào?  ",
+        "Câu 20: Thực chất của công cuộc đổi mới ở nước ta là đổi mới từ phương diện nào?  ",
       answer1: "Lực lượng sản xuất",
       answer2: "Quan hệ sản xuất",
       answer3: "Quan hệ xã hội",
@@ -1901,8 +1920,7 @@ const questions = [
       correct: "Cơ sở hạ tầng quyết định Kiến trúc thượng tầng",
     },
     {
-      question:
-        "Câu 18: Theo quan điểm của Triết học Mác- Lênin, thì... 0 points",
+      question: "Câu 18: Theo quan điểm của Triết học Mác- Lênin, thì... ",
       answer1: "Cơ sở hạ tầng tồn tại độc lập",
       answer2: "Kiến trúc thượng tầng quyết định Cơ sở hạ tầng",
       answer3: "Cơ sở hạ tầng quyết định Kiến trúc thượng tầng",
