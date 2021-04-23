@@ -31,20 +31,22 @@ nextButton.addEventListener("click", () => {
 
 function startGame() {
   total_score = 0;
-  set = Math.floor(Math.random() * 12);
+  set = prompt("Enter the set you want to do");
+  //set = Math.floor(Math.random() * 12);
   console.log(set);
   let actualSet = set + 1;
-  alert(
-    "This is set " +
-      actualSet +
-      "." +
-      "\n" +
-      "If you want to move to another set,please hit OK and then refresh the Website " +
-      "\n" +
-      "Enjoy !!!" +
-      "\n" +
-      "Author: Chinh Pham"
-  );
+  //alert(
+  "This is set " +
+    actualSet +
+    "." +
+    "\n" +
+    "If you want to move to another set,please hit OK and then refresh the Website " +
+    "\n" +
+    "Enjoy !!!" +
+    "\n" +
+    "Author: Chinh Pham";
+  //);
+  clearStatusClass(document.querySelector("body"), true);
   scoreField.classList.add("hide");
   answerField.forEach((element) => {
     clearStatusClass(element);
@@ -105,7 +107,6 @@ function selectAnswer(e) {
   for (let i = 0; i < 4; i++) {
     if (answerField[i].innerHTML === question_data.correct) {
       setStatusClass(answerField[i], true);
-      turnOffHover(answerField[i], true);
     }
     answerField[i].disabled = true;
     turnOffHover(answerField[i], true);
@@ -758,7 +759,7 @@ const questions = [
     {
       question:
         "Câu 8: Phạm trù triết học dùng để chỉ những sự biến đổi xuất hiện do tác động lẫn nhau giữa các mặt trong một sự vật hoặc giữa các sự vật, gọi là gì? ",
-      answer2: "Kết quả",
+      answer2: "Khả năng",
       answer3: "Phủ định",
       answer4: "Tất nhiên",
       correct: "Khả năng",
@@ -2123,7 +2124,7 @@ const questions = [
       answer1: "Phương thức sinh sống",
       answer2: "Tư hữu về tư liệu sản xuất",
       answer3: "Công hữu về tư liệu sản xuất",
-      answer4: "",
+      answer4: "Phương thức sản xuất",
       correct: "Phương thức sản xuất",
     },
     {
@@ -2286,7 +2287,7 @@ const questions = [
       answer2: "quyền sở hữu tư liệu sản xuất",
       answer3: "quyền lực chính trị",
       answer4: "quyền lực quản lý kinh tế",
-      correct: "",
+      correct: "quyền sở hữu tư liệu sản xuất",
     },
     {
       question:
