@@ -105,6 +105,7 @@ function selectAnswer(e) {
   for (let i = 0; i < 4; i++) {
     if (answerField[i].innerHTML === question_data.correct) {
       setStatusClass(answerField[i], true);
+      turnOffHover(answerField[i], true);
     }
     answerField[i].disabled = true;
     turnOffHover(answerField[i], true);
