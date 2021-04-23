@@ -401,7 +401,7 @@ const questions = [
       answer2: "Khoa học",
       answer3: "Thế giới quan",
       answer4: "Nhân sinh quan",
-      correct: "Nhân sinh quan",
+      correct: "Thế giới quan",
     },
     {
       question:
