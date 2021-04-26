@@ -31,21 +31,21 @@ nextButton.addEventListener("click", () => {
 
 function startGame() {
   total_score = 0;
-  set = prompt("Enter the set you want to do");
-  //set = Math.floor(Math.random() * 12);
+  //set = prompt("Enter the set you want to do");
+  set = Math.floor(Math.random() * 12);
   console.log(set);
   let actualSet = set + 1;
-  //alert(
-  "This is set " +
-    actualSet +
-    "." +
-    "\n" +
-    "If you want to move to another set,please hit OK and then refresh the Website " +
-    "\n" +
-    "Enjoy !!!" +
-    "\n" +
-    "Author: Chinh Pham";
-  //);
+  alert(
+    "This is set " +
+      actualSet +
+      "." +
+      "\n" +
+      "If you want to move to another set,please hit OK and then refresh the Website " +
+      "\n" +
+      "Enjoy !!!" +
+      "\n" +
+      "Author: Chinh Pham"
+  );
   clearStatusClass(document.querySelector("body"), true);
   scoreField.classList.add("hide");
   answerField.forEach((element) => {
@@ -436,7 +436,7 @@ const questions = [
       answer1: "Các Mác",
       answer2: "Ăngghen",
       answer3: "Lênin",
-      answer4: "CP",
+      answer4: "",
       correct: "Lênin",
     },
     {
