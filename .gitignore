@@ -246,6 +246,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-raw_data
+raw_data/
 chromedriver
 
