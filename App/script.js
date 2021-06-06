@@ -845,7 +845,7 @@ const chap1 =  [
     "correct": "Quy luật lượng đổi, chất đổi"
   },
   {
-    "question": " 4: Quy luật nào sau đây vạch ra nguồn gốc, động lực của sự phát triển? *1 point",
+    "question": " 4: Quy luật nào sau đây vạch ra nguồn gốc, động lực của sự phát triển?",
     "answer1": "Quy luật mâu thuẫn",
     "answer2": "Quy luật phủ định của phủ định",
     "answer3": "Quy luật lượng đổi, chất đổi",
@@ -909,7 +909,7 @@ const chap1 =  [
     "correct": "Có"
   },
   {
-    "question": " 12: Quan điểm cho rằng, phát triển là quá trình tăng về lượng mà không biến đổi về chất thuộc lập trường nào? *1 point",
+    "question": " 12: Quan điểm cho rằng, phát triển là quá trình tăng về lượng mà không biến đổi về chất thuộc lập trường nào?",
     "answer1": "Duy tâm khách quan",
     "answer2": "Duy tâm chủ quan",
     "answer3": "Duy vật biện chứng",
@@ -925,7 +925,7 @@ const chap1 =  [
     "correct": "Quy luật mâu thuẫn"
   },
   {
-    "question": " 14: Khi đưa ra quan điểm “phát huy nội lực”, Đảng ta đã nhận thức được vai trò quyết định của mâu thuẫn nào? *1 point",
+    "question": " 14: Khi đưa ra quan điểm “phát huy nội lực”, Đảng ta đã nhận thức được vai trò quyết định của mâu thuẫn nào?",
     "answer1": "Mâu thuẫn bên trong",
     "answer2": "Mâu thuẫn bên ngoài",
     "answer3": "Mâu thuẫn đối kháng",
@@ -1472,7 +1472,7 @@ const chap1 =  [
 
   const chap9 = [
   {
-    "question": "Câu 1: Trạng thái sống đầu tiên của người nguyên thủy là gì? *1 point",
+    "question": "Câu 1: Trạng thái sống đầu tiên của người nguyên thủy là gì?",
     "answer1": "Hoạt động chính trị",
     "answer2": "Săn bắt và hái lượm",
     "answer3": "Trồng trọt và chăn nuôi",
@@ -1480,7 +1480,7 @@ const chap1 =  [
     "correct": "Săn bắt và hái lượm"
   },
   {
-    "question": "Câu 2: Yếu tố nào sau đây đóng vai trò quan trọng nhất trong đời sống con người? *1 point",
+    "question": "Câu 2: Yếu tố nào sau đây đóng vai trò quan trọng nhất trong đời sống con người?",
     "answer1": "Sản xuất tinh thần",
     "answer2": "Sản xuất ra con người",
     "answer3": "Sản xuất vật chất",
@@ -1488,7 +1488,7 @@ const chap1 =  [
     "correct": "Sản xuất vật chất"
   },
   {
-    "question": "Câu 3: Hành vi lịch sử đầu tiên  mà loài người phải tiến hành là... *1 point",
+    "question": "Câu 3: Hành vi lịch sử đầu tiên  mà loài người phải tiến hành là...",
     "answer1": "nghiên cứu khoa học",
     "answer2": "sản xuất tư liệu sinh hoạt",
     "answer3": "xây dựng các quy tắc điều chỉnh xã hội",
@@ -1496,7 +1496,7 @@ const chap1 =  [
     "correct": "sản xuất tư liệu sinh hoạt"
   },
   {
-    "question": "Câu 4: Phương thức sản xuất bao gồm những yếu tố nào? *1 point",
+    "question": "Câu 4: Phương thức sản xuất bao gồm những yếu tố nào?",
     "answer1": "Công cụ lao động và đối tượng lao động",
     "answer2": "Tư liệu sản xuất và cách sản xuất",
     "answer3": "Lực lượng sản xuất và quan hệ sản xuất",
@@ -1504,7 +1504,7 @@ const chap1 =  [
     "correct": "Lực lượng sản xuất và quan hệ sản xuất"
   },
   {
-    "question": "Câu 5: Lực lượng sản xuất bao gồm những yếu tố nào? *1 point",
+    "question": "Câu 5: Lực lượng sản xuất bao gồm những yếu tố nào?",
     "answer1": "Giới tự nhiên, dân số, TLSX",
     "answer2": "Con người, TLSX, khoa học công nghệ",
     "answer3": "Giới tự nhiên và công cụ lao động",
@@ -1512,7 +1512,7 @@ const chap1 =  [
     "correct": "Con người, TLSX, khoa học công nghệ"
   },
   {
-    "question": "Câu 6: Trong lực lượng sản xuất,  yếu tố nào sau đây giữ vai trò quan trọng nhất? *1 point",
+    "question": "Câu 6: Trong lực lượng sản xuất,  yếu tố nào sau đây giữ vai trò quan trọng nhất?",
     "answer1": "Khoa học- công nghệ",
     "answer2": "Người sản xuất",
     "answer3": "Tư liệu sản xuất",
@@ -1520,7 +1520,7 @@ const chap1 =  [
     "correct": "Người sản xuất"
   },
   {
-    "question": "Câu 7: Trong quan hệ sản xuất, yếu tố nào giữ vai trò quan trọng nhất? *1 point",
+    "question": "Câu 7: Trong quan hệ sản xuất, yếu tố nào giữ vai trò quan trọng nhất?",
     "answer1": "Quan hệ sở hữu tư liệu sản xuất",
     "answer2": "Quan hệ phân phối sản phẩm",
     "answer3": "Quan hệ tổ chức quản lý sản xuất",
@@ -1528,7 +1528,7 @@ const chap1 =  [
     "correct": "Quan hệ sở hữu tư liệu sản xuất"
   },
   {
-    "question": "Câu 8: Quan hệ sản xuất quyết định các quan hệ xã hội khác, bởi vì nó...... *1 point",
+    "question": "Câu 8: Quan hệ sản xuất quyết định các quan hệ xã hội khác, bởi vì nó......",
     "answer1": "thay đổi khi các quan hệ xã hội khác thay đổi",
     "answer2": "thay đổi khi các quan hệ xã hội khác không thay đổi",
     "answer3": "thay đổi thì các quan hệ xã hội khác cũng thay đổi",
@@ -1536,7 +1536,7 @@ const chap1 =  [
     "correct": "thay đổi thì các quan hệ xã hội khác cũng thay đổi"
   },
   {
-    "question": "Câu 9: Chọn câu trả lời đúng theo quan điểm của chủ nghĩa duy vật lịch sử: *1 point",
+    "question": "Câu 9: Chọn câu trả lời đúng theo quan điểm của chủ nghĩa duy vật lịch sử:",
     "answer1": "Nền tảng khoa học, công nghệ của xã hội",
     "answer2": "Nền tảng của xã hội",
     "answer3": "Nền tảng tinh thần của xã hội",
@@ -1544,7 +1544,7 @@ const chap1 =  [
     "correct": "Nền tảng vật chất của xã hội"
   },
   {
-    "question": "Câu 10: Trình độ phát triển của phương thức sản xuất ra của cải vật chất là nhân tố giữ vai trò quyết định: *1 point",
+    "question": "Câu 10: Trình độ phát triển của phương thức sản xuất ra của cải vật chất là nhân tố giữ vai trò quyết định:",
     "answer1": "Đời sống tinh thần của xã hội",
     "answer2": "Đời sống văn hóa của xã hội",
     "answer3": "Tiến bộ và văn minh của xã hội",
@@ -1552,7 +1552,7 @@ const chap1 =  [
     "correct": "Trình độ phát triển của nền sản xuất xã hội"
   },
   {
-    "question": "Câu 11: Quan hệ nào sau đây là quan hệ kinh tế cơ bản của xã hội? *1 point",
+    "question": "Câu 11: Quan hệ nào sau đây là quan hệ kinh tế cơ bản của xã hội?",
     "answer1": "Quan hệ sản xuất",
     "answer2": "Quan hệ tôn giáo",
     "answer3": "Quan hệ giai cấp",
@@ -1560,7 +1560,7 @@ const chap1 =  [
     "correct": "Quan hệ sản xuất"
   },
   {
-    "question": "Câu 12: Tại Đại hội VI (1986), Đảng ta khởi xướng việc đổi mới tư duy trong lĩnh vực nào? *1 point",
+    "question": "Câu 12: Tại Đại hội VI (1986), Đảng ta khởi xướng việc đổi mới tư duy trong lĩnh vực nào?",
     "answer1": "Kinh tế",
     "answer2": "Chính trị",
     "answer3": "Quân sự",
@@ -1568,7 +1568,7 @@ const chap1 =  [
     "correct": ""
   },
   {
-    "question": "Câu 13: Chọn phương án đúng nhất: Mục đích cơ bản của việc đổi mới tư duy kinh tế là nâng cao...? *1 point",
+    "question": "Câu 13: Chọn phương án đúng nhất: Mục đích cơ bản của việc đổi mới tư duy kinh tế là nâng cao...?",
     "answer1": "đời sống nhân dân",
     "answer2": "hiệu quả sản xuất",
     "answer3": "năng suất lao động",
@@ -1576,7 +1576,7 @@ const chap1 =  [
     "correct": "hiệu quả sản xuất"
   },
   {
-    "question": "Câu 14: Theo C Mác các nền kinh tế căn bản được phân biệt với nhau bởi: *1 point",
+    "question": "Câu 14: Theo C Mác các nền kinh tế căn bản được phân biệt với nhau bởi:",
     "answer1": "Mục đích xã hội của sản xuất của cải vật chất",
     "answer2": "Phương thức sản xuất của cải vật chất",
     "answer3": "Mục đích của quá trình sản xuất ra của cải",
@@ -1584,7 +1584,7 @@ const chap1 =  [
     "correct": "Phương thức sản xuất của cải vật chất"
   },
   {
-    "question": "Câu 15: Có thể đồng nhất “Kiến trúc thượng tầng” với “Hệ thống chính trị” không? *1 point",
+    "question": "Câu 15: Có thể đồng nhất “Kiến trúc thượng tầng” với “Hệ thống chính trị” không?",
     "answer1": "Có",
     "answer2": "Không",
     "answer3": "",
@@ -1592,7 +1592,7 @@ const chap1 =  [
     "correct": "Không"
   },
   {
-    "question": "Câu 16: Trong các yếu tố của Kiến trúc thượng tầng, yếu tố nào quan trọng nhất? *1 point",
+    "question": "Câu 16: Trong các yếu tố của Kiến trúc thượng tầng, yếu tố nào quan trọng nhất?",
     "answer1": "Nhà nước",
     "answer2": "Các hiệp hội",
     "answer3": "Giáo hội",
@@ -1600,7 +1600,7 @@ const chap1 =  [
     "correct": "Nhà nước"
   },
   {
-    "question": "Câu 17: Theo Ănghen sự khác nhau căn bản giữa con người và con vật là ở chỗ: *1 point",
+    "question": "Câu 17: Theo Ănghen sự khác nhau căn bản giữa con người và con vật là ở chỗ:",
     "answer1": "Con người biết lao động sản xuất ra của cải vật chất",
     "answer2": "Con người có ngôn ngữ và giao tiếp xã hội",
     "answer3": "Con người biết nhận thức và có văn hóa",
@@ -1608,7 +1608,7 @@ const chap1 =  [
     "correct": "Con người biết lao động sản xuất ra của cải vật chất"
   },
   {
-    "question": "Câu 18: Theo quan điểm của chủ nghĩa duy vật lịch sử: Trình độ phát triển của lực lượng sản xuất là... *1 point",
+    "question": "Câu 18: Theo quan điểm của chủ nghĩa duy vật lịch sử: Trình độ phát triển của lực lượng sản xuất là...",
     "answer1": "trình độ phát triển của con người",
     "answer2": "phản ánh trình độ chinh phục tự nhiên của con người",
     "answer3": "trình độ phát triển của con người và xã hội",
@@ -1616,7 +1616,7 @@ const chap1 =  [
     "correct": "phản ánh trình độ chinh phục tự nhiên của con người"
   },
   {
-    "question": "Câu 19: Nhà nước là thiết chế tương ứng với hình thái ý thức xã hội nào sau đây? *1 point",
+    "question": "Câu 19: Nhà nước là thiết chế tương ứng với hình thái ý thức xã hội nào sau đây?",
     "answer1": "Tôn giáo",
     "answer2": "Khoa học",
     "answer3": "Chính trị",
@@ -1635,7 +1635,7 @@ const chap1 =  [
 
   const chap10 = [
   {
-    "question": "Câu 1: Câu nói: ”Mặt trời mọc ở đằng Đông, lặn ở đằng Tây”, có phải là một chân lý không? *1 point",
+    "question": "Câu 1: Câu nói: ”Mặt trời mọc ở đằng Đông, lặn ở đằng Tây”, có phải là một chân lý không?",
     "answer1": "Có",
     "answer2": "Không",
     "answer3": "",
@@ -1643,7 +1643,7 @@ const chap1 =  [
     "correct": "Không"
   },
   {
-    "question": "Câu 2: Hành vi lịch sử đầu tiên  phân biệt con người với con vật là... *1 point",
+    "question": "Câu 2: Hành vi lịch sử đầu tiên  phân biệt con người với con vật là...",
     "answer1": "hoạt động chính trị",
     "answer2": "sản xuất tư  liệu sinh hoạt",
     "answer3": "săn bắt và hái lượm",
@@ -1651,7 +1651,7 @@ const chap1 =  [
     "correct": "sản xuất tư  liệu sinh hoạt"
   },
   {
-    "question": "Câu 3: Nghề gì đã thay thế trạng thái  ”săn bắt và hái lượm” ban đầu của con người? *1 point",
+    "question": "Câu 3: Nghề gì đã thay thế trạng thái  ”săn bắt và hái lượm” ban đầu của con người?",
     "answer1": "Du lịch, dịch vụ",
     "answer2": "Trồng trọt, chăn nuôi",
     "answer3": "Thủ công nghiệp",
@@ -1659,7 +1659,7 @@ const chap1 =  [
     "correct": "Trồng trọt, chăn nuôi"
   },
   {
-    "question": "Câu 4: Tư liệu sản xuất bao gồm những yếu tố nào? *1 point",
+    "question": "Câu 4: Tư liệu sản xuất bao gồm những yếu tố nào?",
     "answer1": "Đối tượng và công cụ lao động",
     "answer2": "Giới tự nhiên và công cụ lao động",
     "answer3": "Con người và công cụ lao động",
@@ -1667,7 +1667,7 @@ const chap1 =  [
     "correct": "Đối tượng và công cụ lao động"
   },
   {
-    "question": "Câu 5: Quan hệ sản xuất là quan hệ kinh tế cơ bản của xã hội, vì nó......? *1 point",
+    "question": "Câu 5: Quan hệ sản xuất là quan hệ kinh tế cơ bản của xã hội, vì nó......?",
     "answer1": "thay đổi  khi các quan hệ xã hội khác ổn định",
     "answer2": "thay đổi khi  các quan hệ xã hội khác thay đổi",
     "answer3": "giữ vai trò quyết định các quan hệ xã hội khác",
@@ -1675,7 +1675,7 @@ const chap1 =  [
     "correct": "giữ vai trò quyết định các quan hệ xã hội khác"
   },
   {
-    "question": "Câu 6: Quan hệ cơ bản nhất trong hệ thống quan hệ sản xuất là mối quan hệ... *1 point",
+    "question": "Câu 6: Quan hệ cơ bản nhất trong hệ thống quan hệ sản xuất là mối quan hệ...",
     "answer1": "sở hữu về tư liệu sản xuất",
     "answer2": "phân phối của cải xã hội",
     "answer3": "sở hữu về trí tuệ",
@@ -1683,7 +1683,7 @@ const chap1 =  [
     "correct": "sở hữu về tư liệu sản xuất"
   },
   {
-    "question": "Câu 7: Hoàn thiện câu: “Quan hệ sản xuất là quan hệ giữa người và người trong ...” *1 point",
+    "question": "Câu 7: Hoàn thiện câu: “Quan hệ sản xuất là quan hệ giữa người và người trong ...”",
     "answer1": "chính tri",
     "answer2": "đấu tranh",
     "answer3": "sản xuất",
@@ -1691,7 +1691,7 @@ const chap1 =  [
     "correct": "sản xuất"
   },
   {
-    "question": "Câu 8: Ở nước ta hiện nay, cơ sở hạ tầng xây dựng trên một cơ chế kinh tế nào? *1 point",
+    "question": "Câu 8: Ở nước ta hiện nay, cơ sở hạ tầng xây dựng trên một cơ chế kinh tế nào?",
     "answer1": "Kế hoạch hóa",
     "answer2": "Thị trường xã hội chủ nghĩa",
     "answer3": "Quan liêu, bao cấp, hành chính",
@@ -1699,7 +1699,7 @@ const chap1 =  [
     "correct": "Thị trường xã hội chủ nghĩa"
   },
   {
-    "question": "Câu 9: Thực chất của công cuộc đổi mới ở nước ta là đổi mới từ phương diện nào? *1 point",
+    "question": "Câu 9: Thực chất của công cuộc đổi mới ở nước ta là đổi mới từ phương diện nào?",
     "answer1": "Quan hệ xã hội",
     "answer2": "Phân phối sản phẩm",
     "answer3": "Lực lượng sản xuất",
@@ -1707,7 +1707,7 @@ const chap1 =  [
     "correct": "Quan hệ sản xuất"
   },
   {
-    "question": "Câu 10: . Nhân tố nào tác động trực tiếp và mạnh mẽ nhất tới cơ sở kinh tế của xã hội? *1 point",
+    "question": "Câu 10: . Nhân tố nào tác động trực tiếp và mạnh mẽ nhất tới cơ sở kinh tế của xã hội?",
     "answer1": "Nhà nước",
     "answer2": "Các hiệp hội",
     "answer3": "Đảng phái",
@@ -1715,7 +1715,7 @@ const chap1 =  [
     "correct": "Nhà nước"
   },
   {
-    "question": "Câu 11: Đảng phái là thiết chế tương ứng với hình thái ý thức xã hội nào sau đây? *1 point",
+    "question": "Câu 11: Đảng phái là thiết chế tương ứng với hình thái ý thức xã hội nào sau đây?",
     "answer1": "Pháp luật",
     "answer2": "Khoa học",
     "answer3": "Tôn giáo",
@@ -1723,7 +1723,7 @@ const chap1 =  [
     "correct": "Chính trị"
   },
   {
-    "question": "Câu 12: Trong những Quan hệ sản xuất hợp thành cơ cấu kinh tế, Quan hệ sản xuất nào giữ vị trí chủ đạo? *1 point",
+    "question": "Câu 12: Trong những Quan hệ sản xuất hợp thành cơ cấu kinh tế, Quan hệ sản xuất nào giữ vị trí chủ đạo?",
     "answer1": "QHSX đang thống trị",
     "answer2": "QHSX tàn dư của xã hội trước",
     "answer3": "QHSX mầm mồng của xã hội sau",
@@ -1731,7 +1731,7 @@ const chap1 =  [
     "correct": "QHSX đang thống trị"
   },
   {
-    "question": "Câu\n 13: Theo quan điểm của chủ nghĩa duy vật lịch sử. Khẳng định nào là \nđúng khi xem xét mối quan hệ giữa lực lượng sản xuất và quan hệ sản \nxuất? *1 point",
+    "question": "Câu\n 13: Theo quan điểm của chủ nghĩa duy vật lịch sử. Khẳng định nào là \nđúng khi xem xét mối quan hệ giữa lực lượng sản xuất và quan hệ sản \nxuất?",
     "answer1": "Lực lượng sản xuất phụ thuộc vào quan hệ sản xuất",
     "answer2": "Quan hệ sản xuất phụ thuộc vào trình độ phát triển của lực lượng sản xuất",
     "answer3": "Quan hệ sản xuất và lực lượng sản xuất tồn tại độc lập với nhau",
@@ -1739,7 +1739,7 @@ const chap1 =  [
     "correct": "Quan hệ sản xuất phụ thuộc vào trình độ phát triển của lực lượng sản xuất"
   },
   {
-    "question": "Câu 14: Mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất là mối quan hệ... *1 point",
+    "question": "Câu 14: Mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất là mối quan hệ...",
     "answer1": "luôn thống nhất với nhau",
     "answer2": "luôn đấu tranh với nhau",
     "answer3": "thống nhất và đấu tranh của các mặt đối lập",
@@ -1747,7 +1747,7 @@ const chap1 =  [
     "correct": "thống nhất và đấu tranh của các mặt đối lập"
   },
   {
-    "question": "Câu 15: Quy luật cơ bản nhất, chi phối quyết định toàn bộ quá trình vận động, phát triển của lịch sử loài người là quy luật nào? *1 point",
+    "question": "Câu 15: Quy luật cơ bản nhất, chi phối quyết định toàn bộ quá trình vận động, phát triển của lịch sử loài người là quy luật nào?",
     "answer1": "Quy luật đấu tranh giai cấp",
     "answer2": "Quy luật phát triển khoa học và công nghệ",
     "answer3": "Quy luật kinh tế thị trường",
@@ -1755,7 +1755,7 @@ const chap1 =  [
     "correct": "Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất"
   },
   {
-    "question": "Câu 16: Theo quan điểm của Triết học Mác- Lênin, thì... *1 point",
+    "question": "Câu 16: Theo quan điểm của Triết học Mác- Lênin, thì...",
     "answer1": "Kiến trúc thượng tầng quyết định Cơ sở hạ tầng",
     "answer2": "Cơ sở hạ tầng tồn tại độc lập",
     "answer3": "Kiến trúc thượng tầng  tồn tại tự thân",
@@ -1763,7 +1763,7 @@ const chap1 =  [
     "correct": "Cơ sở hạ tầng quyết định Kiến trúc thượng tầng"
   },
   {
-    "question": "Câu 18: Theo quan điểm của Triết học Mác- Lênin, thì... *0 points",
+    "question": "Câu 18: Theo quan điểm của Triết học Mác- Lênin, thì... ",
     "answer1": "Cơ sở hạ tầng tồn tại độc lập",
     "answer2": "Kiến trúc thượng tầng quyết định Cơ sở hạ tầng",
     "answer3": "Cơ sở hạ tầng quyết định Kiến trúc thượng tầng",
@@ -1771,7 +1771,7 @@ const chap1 =  [
     "correct": "Cơ sở hạ tầng quyết định Kiến trúc thượng tầng"
   },
   {
-    "question": "Câu 19: Tồn tại xã hội được cấu thành từ những yếu tố nào? *1 point",
+    "question": "Câu 19: Tồn tại xã hội được cấu thành từ những yếu tố nào?",
     "answer1": "Điện, đường, trường, trạm",
     "answer2": "Những điều kiện sinh hoạt vật chất của xã hội",
     "answer3": "Điều kiện tự nhiên, Dân số, Phương thức sản xuất",
