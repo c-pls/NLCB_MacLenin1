@@ -5,19 +5,42 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Những nguyên lý cơ bản của chủ nghĩa Mác Lê Nin 1</title>
+    <link rel="shortcut icon" href="https://d3.violet.vn/uploads/previews/document/0/802/880/Picture9.png.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css" />
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link
       href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap"
       rel="stylesheet"
     />
-    <link
+       <link
       href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Parisienne&display=swap"
       rel="stylesheet"
     />
   </head>
   <body class>
     <div class="container">
+      <div class="drop-drown text-center mb-3">
+        <select id="code" class="text-center">
+          <option>Select one of these</option>
+          <option value="c1">Set 1</option>
+          <option value="c2">Set 2</option>	
+          <option value="c3">Set 3</option>	
+          <option value="c4">Set 4 </option>	
+          <option value="c5">Set 5 </option>	
+          <option value="c6">Set 6</option>	
+          <option value="c7">Set 7</option>
+          <option value="c8">Set 8</option>		
+          <option value="c9">Set 9</option>	
+          <option value="c10">Set 10</option>	
+          <option value="c11">Set 11</option>	
+          <option value="c12">Set 12</option>	
+<option value="all">All-in</option>	
+
+
+    </select>
+      </div>
+      
       <h2 id="score" class="hide">Score</h2>
       <div id="question-container" class="hide">
         <div id="question">Question</div>
@@ -29,10 +52,12 @@
         </div>
       </div>
       <div class="controls">
-        <button id="start-btn" class="start-btn btn">Start</button>
+        <button id="start-btn" class="start-btn btn ">Start</button>
         <button id="next-btn" class="next-btn btn hide">Next</button>
+        <button id="reset-btn" class="reset-btn btn hide">Reset</button>
       </div>
     </div>
+    <script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
     <script src="script.js"></script>
   </body>
 </html>
